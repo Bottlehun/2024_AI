@@ -4,17 +4,22 @@
 
 * ### 1.1 XHTML 설정
     ```html
-    <div>
-        <div class="lesson-num">1</div>
-    </div>
-
-    <div>
-        <div class="lesson-title">온도<span class="lesson-title-small">와</span> 열</div>
-    </div>
-
-    <div>
-        <div class="lesson-cont">본문내용</div>
-    </div>
+<!--       학습목표 -->
+        <div class="cont-header">
+            <div class="chapter-num n01" title="01" alt="01"></div>
+            <div class="chapter-title-wrap">
+                <div class="chapter-title">컴퓨팅 시스템의 구성</div>
+                <div class="chapter-gole">
+                    <p>우리 주변의 컴퓨팅 시스템을 탐색할 수 있다.</p>
+                    <p>컴퓨팅 시스템의 구성요소를 파악할 수 있다.</p>
+                </div>
+            </div>
+            <div class="chap-intro-ani">
+                <div class="robot-ani" title=""></div>
+                <button class="gole-open-btn" data-option='{"type":"button", "target":"think_1"}'></button>
+            </div>
+        </div>
+<!--       학습목표 -->
     ```
 
 * ### 1.2 CSS 설정
