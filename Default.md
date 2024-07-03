@@ -1,6 +1,6 @@
 ## 1. Lesson 첫페이지
 
-<img src="https://user-images.githubusercontent.com/95833863/180588321-3317c759-862c-4604-a3f2-a28da9380c17.jpg">
+<img src="https://github.com/Bottlehun/2024_AI/assets/95833863/70d0faba-cb18-4076-b525-047e1f1f8352.png">
 
 * ### 1.1 XHTML 설정
     ```html
